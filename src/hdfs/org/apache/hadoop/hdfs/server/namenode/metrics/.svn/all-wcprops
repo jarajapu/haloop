@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/metrics
+END
+FSNamesystemMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/metrics/FSNamesystemMBean.java
+END
+NameNodeStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/metrics/NameNodeStatistics.java
+END
+NameNodeStatisticsMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/metrics/NameNodeStatisticsMBean.java
+END
+FSNamesystemMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/metrics/FSNamesystemMetrics.java
+END
+NameNodeActivtyMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/metrics/NameNodeActivtyMBean.java
+END
+NameNodeMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/metrics/NameNodeMetrics.java
+END

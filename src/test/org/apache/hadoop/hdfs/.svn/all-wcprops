@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs
+END
+TestMissingBlocksAlert.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestMissingBlocksAlert.java
+END
+TestFileCorruption.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestFileCorruption.java
+END
+TestFileCreation.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestFileCreation.java
+END
+TestDFSRename.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDFSRename.java
+END
+TestDFSUpgradeFromImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDFSUpgradeFromImage.java
+END
+NNBench.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/NNBench.java
+END
+TestRestartDFS.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestRestartDFS.java
+END
+TestSafeMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestSafeMode.java
+END
+TestSmallBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestSmallBlock.java
+END
+BenchmarkThroughput.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/BenchmarkThroughput.java
+END
+TestHDFSTrash.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestHDFSTrash.java
+END
+TestDFSMkdirs.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDFSMkdirs.java
+END
+TestDecommission.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDecommission.java
+END
+MiniDFSCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/MiniDFSCluster.java
+END
+TestCrcCorruption.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestCrcCorruption.java
+END
+TestBlocksScheduledCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestBlocksScheduledCounter.java
+END
+AppendTestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/AppendTestUtil.java
+END
+TestDFSClientRetries.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDFSClientRetries.java
+END
+TestFileStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestFileStatus.java
+END
+TestFileCreationDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestFileCreationDelete.java
+END
+TestQuota.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestQuota.java
+END
+TestFileAppend2.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestFileAppend2.java
+END
+TestDFSFinalize.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDFSFinalize.java
+END
+TestDefaultNameNodePort.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDefaultNameNodePort.java
+END
+TestDataTransferProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDataTransferProtocol.java
+END
+TestFileCreationClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestFileCreationClient.java
+END
+TestDatanodeBlockScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDatanodeBlockScanner.java
+END
+hadoop-14-dfs-dir.tgz
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/hadoop-14-dfs-dir.tgz
+END
+TestSetrepIncreasing.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestSetrepIncreasing.java
+END
+TestFileAppend.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestFileAppend.java
+END
+TestLeaseRecovery.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestLeaseRecovery.java
+END
+TestDFSShellGenericOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDFSShellGenericOptions.java
+END
+TestFSInputChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestFSInputChecker.java
+END
+TestAbandonBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestAbandonBlock.java
+END
+TestFileCreationNamenodeRestart.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestFileCreationNamenodeRestart.java
+END
+TestSeekBug.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestSeekBug.java
+END
+TestInjectionForSimulatedStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestInjectionForSimulatedStorage.java
+END
+TestDFSRollback.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDFSRollback.java
+END
+TestHDFSFileSystemContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestHDFSFileSystemContract.java
+END
+TestSetrepDecreasing.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestSetrepDecreasing.java
+END
+TestFileAppend3.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestFileAppend3.java
+END
+TestLeaseRecovery2.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestLeaseRecovery2.java
+END
+TestPread.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestPread.java
+END
+TestSetTimes.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestSetTimes.java
+END
+hadoop-dfs-dir.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/hadoop-dfs-dir.txt
+END
+NNBenchWithoutMR.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/NNBenchWithoutMR.java
+END
+TestModTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestModTime.java
+END
+TestHDFSServerPorts.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestHDFSServerPorts.java
+END
+TestDFSShell.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDFSShell.java
+END
+TestReplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestReplication.java
+END
+DFSTestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/DFSTestUtil.java
+END
+TestDatanodeReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDatanodeReport.java
+END
+TestGetBlocks.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestGetBlocks.java
+END
+TestDFSStorageStateRecovery.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDFSStorageStateRecovery.java
+END
+DataNodeCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/DataNodeCluster.java
+END
+TestRenameWhileOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestRenameWhileOpen.java
+END
+TestFSOutputSummer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestFSOutputSummer.java
+END
+UpgradeUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/UpgradeUtilities.java
+END
+TestFileCreationEmpty.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestFileCreationEmpty.java
+END
+TestDFSUpgrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDFSUpgrade.java
+END
+TestDFSPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDFSPermission.java
+END
+TestDatanodeDeath.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDatanodeDeath.java
+END
+TestDistributedFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDistributedFileSystem.java
+END
+TestLocalDFS.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestLocalDFS.java
+END
+TestDFSStartupVersions.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestDFSStartupVersions.java
+END
+TestLease.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/TestLease.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/generated
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/generated/Token.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/generated/TokenMgrError.java
+END
+SimpleCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/generated/SimpleCharStream.java
+END
+RccTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/generated/RccTokenManager.java
+END
+RccConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/generated/RccConstants.java
+END
+Rcc.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/generated/Rcc.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/generated/ParseException.java
+END
+rcc.jj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/generated/rcc.jj
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/generated/package.html
+END

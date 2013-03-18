@@ -1,0 +1,98 @@
+10
+
+dir
+408
+https://haloop.googlecode.com/svn/trunk/src/core/org/apache/hadoop
+https://haloop.googlecode.com/svn
+
+
+
+2011-09-26T09:45:37.244820Z
+387
+buyingyi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+112d2f9c-d2ad-0198-a37f-413d9e3a7291
+
+http
+dir
+
+log
+dir
+
+filecache
+dir
+
+conf
+dir
+
+net
+dir
+
+metrics
+dir
+
+security
+dir
+
+io
+dir
+
+fs
+dir
+
+ipc
+dir
+
+HadoopVersionAnnotation.java
+file
+
+
+
+
+2012-06-24T16:15:25.000000Z
+003c4fb06456ac259fc90596eeb05024
+2010-07-08T07:49:33.837656Z
+89
+buyingyi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1574
+
+util
+dir
+
+record
+dir
+

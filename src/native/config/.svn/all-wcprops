@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/89/trunk/src/native/config
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/89/trunk/src/native/config/depcomp
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/89/trunk/src/native/config/missing
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/89/trunk/src/native/config/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/89/trunk/src/native/config/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/89/trunk/src/native/config/config.sub
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/89/trunk/src/native/config/install-sh
+END

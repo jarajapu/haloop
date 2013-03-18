@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/376/trunk/src/examples/org/apache/hadoop/examples/kmeans
+END
+KMeansLoopMapCacheFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/338/trunk/src/examples/org/apache/hadoop/examples/kmeans/KMeansLoopMapCacheFilter.java
+END
+NaiveKMeans.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/342/trunk/src/examples/org/apache/hadoop/examples/kmeans/NaiveKMeans.java
+END
+KMeansLoopInputOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/338/trunk/src/examples/org/apache/hadoop/examples/kmeans/KMeansLoopInputOutput.java
+END
+KMeansLoopMapCacheSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/376/trunk/src/examples/org/apache/hadoop/examples/kmeans/KMeansLoopMapCacheSwitch.java
+END
+KMeans.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/376/trunk/src/examples/org/apache/hadoop/examples/kmeans/KMeans.java
+END

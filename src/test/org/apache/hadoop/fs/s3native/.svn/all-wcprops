@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/s3native
+END
+TestInMemoryNativeS3FileSystemContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/s3native/TestInMemoryNativeS3FileSystemContract.java
+END
+InMemoryNativeFileSystemStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/s3native/InMemoryNativeFileSystemStore.java
+END
+NativeS3FileSystemContractBaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/s3native/NativeS3FileSystemContractBaseTest.java
+END
+Jets3tNativeS3FileSystemContractTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/s3native/Jets3tNativeS3FileSystemContractTest.java
+END

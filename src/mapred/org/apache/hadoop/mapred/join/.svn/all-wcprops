@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/350/trunk/src/mapred/org/apache/hadoop/mapred/join
+END
+StreamBackedIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/join/StreamBackedIterator.java
+END
+OuterJoinRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/join/OuterJoinRecordReader.java
+END
+OverrideRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/join/OverrideRecordReader.java
+END
+ComposableRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/join/ComposableRecordReader.java
+END
+InnerJoinRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/join/InnerJoinRecordReader.java
+END
+ComposableInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/join/ComposableInputFormat.java
+END
+ArrayListBackedIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/join/ArrayListBackedIterator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/350/trunk/src/mapred/org/apache/hadoop/mapred/join/package.html
+END
+ResetableIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/join/ResetableIterator.java
+END
+JoinRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/join/JoinRecordReader.java
+END
+MultiFilterRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/join/MultiFilterRecordReader.java
+END
+TupleWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/join/TupleWritable.java
+END
+CompositeRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/join/CompositeRecordReader.java
+END
+WrappedRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/join/WrappedRecordReader.java
+END
+CompositeInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/join/CompositeInputFormat.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/join/Parser.java
+END
+CompositeInputSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/join/CompositeInputSplit.java
+END

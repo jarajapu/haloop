@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler
+END
+JInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/JInt.java
+END
+CodeBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/CodeBuffer.java
+END
+JLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/JLong.java
+END
+Consts.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/Consts.java
+END
+JCompType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/JCompType.java
+END
+JVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/JVector.java
+END
+JByte.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/JByte.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/package.html
+END
+JFloat.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/JFloat.java
+END
+JString.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/JString.java
+END
+CodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/CodeGenerator.java
+END
+JBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/JBuffer.java
+END
+JDouble.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/JDouble.java
+END
+JMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/JMap.java
+END
+JavaGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/JavaGenerator.java
+END
+JRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/JRecord.java
+END
+JFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/JFile.java
+END
+CppGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/CppGenerator.java
+END
+CGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/CGenerator.java
+END
+JBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/JBoolean.java
+END
+JType.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/JType.java
+END
+JField.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/compiler/JField.java
+END

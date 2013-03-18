@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/254/trunk/src/c++/pipes/debug
+END
+pipes-default-script
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/254/trunk/src/c++/pipes/debug/pipes-default-script
+END
+pipes-default-gdb-commands.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/254/trunk/src/c++/pipes/debug/pipes-default-gdb-commands.txt
+END

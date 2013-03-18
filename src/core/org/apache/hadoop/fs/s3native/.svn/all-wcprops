@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3native
+END
+FileMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3native/FileMetadata.java
+END
+NativeS3FileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3native/NativeS3FileSystem.java
+END
+Jets3tNativeFileSystemStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3native/Jets3tNativeFileSystemStore.java
+END
+PartialListing.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3native/PartialListing.java
+END
+NativeFileSystemStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3native/NativeFileSystemStore.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3native/package.html
+END

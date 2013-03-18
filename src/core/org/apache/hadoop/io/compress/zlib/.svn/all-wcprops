@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/compress/zlib
+END
+ZlibDecompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/compress/zlib/ZlibDecompressor.java
+END
+ZlibFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/compress/zlib/ZlibFactory.java
+END
+BuiltInZlibInflater.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/compress/zlib/BuiltInZlibInflater.java
+END
+ZlibCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/compress/zlib/ZlibCompressor.java
+END
+BuiltInZlibDeflater.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/compress/zlib/BuiltInZlibDeflater.java
+END

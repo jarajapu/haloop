@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/compress/bzip2
+END
+BZip2DummyCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/compress/bzip2/BZip2DummyCompressor.java
+END
+BZip2Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/compress/bzip2/BZip2Constants.java
+END
+CBZip2InputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/compress/bzip2/CBZip2InputStream.java
+END
+CBZip2OutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/compress/bzip2/CBZip2OutputStream.java
+END
+CRC.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/compress/bzip2/CRC.java
+END
+BZip2DummyDecompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/compress/bzip2/BZip2DummyDecompressor.java
+END

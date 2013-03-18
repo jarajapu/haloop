@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/350/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate
+END
+LongValueMin.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/LongValueMin.java
+END
+LongValueMax.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/LongValueMax.java
+END
+ValueAggregatorJobBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorJobBase.java
+END
+StringValueMin.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/StringValueMin.java
+END
+StringValueMax.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/StringValueMax.java
+END
+ValueAggregatorBaseDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorBaseDescriptor.java
+END
+ValueAggregatorJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorJob.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/350/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/package.html
+END
+ValueAggregatorDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorDescriptor.java
+END
+ValueAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueAggregator.java
+END
+LongValueSum.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/LongValueSum.java
+END
+UniqValueCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/UniqValueCount.java
+END
+ValueAggregatorMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorMapper.java
+END
+ValueAggregatorReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorReducer.java
+END
+ValueHistogram.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueHistogram.java
+END
+UserDefinedValueAggregatorDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/UserDefinedValueAggregatorDescriptor.java
+END
+DoubleValueSum.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/DoubleValueSum.java
+END
+ValueAggregatorCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorCombiner.java
+END

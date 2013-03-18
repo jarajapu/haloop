@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/89/trunk/src/webapps/datanode
+END
+browseDirectory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/89/trunk/src/webapps/datanode/browseDirectory.jsp
+END
+tail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/89/trunk/src/webapps/datanode/tail.jsp
+END
+browseBlock.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/89/trunk/src/webapps/datanode/browseBlock.jsp
+END

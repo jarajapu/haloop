@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/398/trunk/src/examples/org/apache/hadoop/examples/descendant
+END
+DescendantLoopInputOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/334/trunk/src/examples/org/apache/hadoop/examples/descendant/DescendantLoopInputOutput.java
+END
+DescendantReduceCacheSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/376/trunk/src/examples/org/apache/hadoop/examples/descendant/DescendantReduceCacheSwitch.java
+END
+Descendant.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/398/trunk/src/examples/org/apache/hadoop/examples/descendant/Descendant.java
+END
+DescendantReduceCacheFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/334/trunk/src/examples/org/apache/hadoop/examples/descendant/DescendantReduceCacheFilter.java
+END
+NaiveDescendant.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/334/trunk/src/examples/org/apache/hadoop/examples/descendant/NaiveDescendant.java
+END

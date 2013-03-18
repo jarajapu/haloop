@@ -1,0 +1,671 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred
+END
+test.tgz
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/test.tgz
+END
+TestJobHistoryVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJobHistoryVersion.java
+END
+TestCounters.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestCounters.java
+END
+test.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/test.tar.gz
+END
+TestMiniMRTaskTempDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMiniMRTaskTempDir.java
+END
+TestParallelInitialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestParallelInitialization.java
+END
+TestJobTrackerStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJobTrackerStart.java
+END
+TestMiniMRDFSCaching.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMiniMRDFSCaching.java
+END
+TestLimitTasksPerJobTaskScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestLimitTasksPerJobTaskScheduler.java
+END
+TestGetSplitHosts.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestGetSplitHosts.java
+END
+TestTextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestTextInputFormat.java
+END
+TestJobHistoryParsing.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJobHistoryParsing.java
+END
+TestUserDefinedCounters.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestUserDefinedCounters.java
+END
+TestKillCompletedJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestKillCompletedJob.java
+END
+TestMultiFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMultiFileInputFormat.java
+END
+WordCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/WordCount.java
+END
+TestResourceEstimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestResourceEstimation.java
+END
+TestJobQueueInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJobQueueInformation.java
+END
+TestCollect.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestCollect.java
+END
+TestCompressedEmptyMapOutputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestCompressedEmptyMapOutputs.java
+END
+ThreadedMapBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/ThreadedMapBenchmark.java
+END
+TestEmptyJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestEmptyJob.java
+END
+TestReduceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestReduceTask.java
+END
+TestJobTrackerSafeMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJobTrackerSafeMode.java
+END
+TestSequenceFileAsTextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestSequenceFileAsTextInputFormat.java
+END
+TestIndexCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestIndexCache.java
+END
+TestFileInputFormatPathFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestFileInputFormatPathFilter.java
+END
+TestJobTrackerRestart.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJobTrackerRestart.java
+END
+TestSequenceFileAsBinaryOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestSequenceFileAsBinaryOutputFormat.java
+END
+TestJobHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJobHistory.java
+END
+MiniMRCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/MiniMRCluster.java
+END
+TestLostTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestLostTracker.java
+END
+TestSubmitJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestSubmitJob.java
+END
+TestMiniMRClasspath.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMiniMRClasspath.java
+END
+TestSortedRanges.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestSortedRanges.java
+END
+TestSequenceFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestSequenceFileInputFormat.java
+END
+TestJobQueueTaskScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJobQueueTaskScheduler.java
+END
+testscript.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/testscript.txt
+END
+TestTaskTrackerMemoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestTaskTrackerMemoryManager.java
+END
+TestClusterMapReduceTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestClusterMapReduceTestCase.java
+END
+TestMiniMRWithDFSWithDistinctUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMiniMRWithDFSWithDistinctUsers.java
+END
+TestSpecialCharactersInOutputPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestSpecialCharactersInOutputPath.java
+END
+TestMultiFileSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMultiFileSplit.java
+END
+TestFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestFileInputFormat.java
+END
+TestFileOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestFileOutputFormat.java
+END
+test.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/test.jar
+END
+TestInputPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestInputPath.java
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/test.txt
+END
+MRBench.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/MRBench.java
+END
+TestTextOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestTextOutputFormat.java
+END
+BigMapOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/BigMapOutput.java
+END
+TestMiniMRMapRedDebugScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMiniMRMapRedDebugScript.java
+END
+TestJobDirCleanup.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJobDirCleanup.java
+END
+TestKeyValueTextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestKeyValueTextInputFormat.java
+END
+test.tar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/test.tar
+END
+TestControlledMapReduceJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestControlledMapReduceJob.java
+END
+TestMapCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMapCollection.java
+END
+TestMRServerPorts.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMRServerPorts.java
+END
+TestSequenceFileInputFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestSequenceFileInputFilter.java
+END
+TestMiniMRLocalFS.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMiniMRLocalFS.java
+END
+TestLocalMRNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestLocalMRNotification.java
+END
+TestMiniMRDFSSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMiniMRDFSSort.java
+END
+test.zip
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/test.zip
+END
+TestMultipleLevelCaching.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMultipleLevelCaching.java
+END
+TestJobSysDirWithDFS.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJobSysDirWithDFS.java
+END
+TestSetupAndCleanupFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestSetupAndCleanupFailure.java
+END
+TestJobKillAndFail.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJobKillAndFail.java
+END
+TestJobStatusPersistency.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJobStatusPersistency.java
+END
+TestBadRecords.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestBadRecords.java
+END
+ReliabilityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/ReliabilityTest.java
+END
+TestTaskCommit.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestTaskCommit.java
+END
+TestRackAwareTaskPlacement.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestRackAwareTaskPlacement.java
+END
+DummyMemoryCalculatorPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/DummyMemoryCalculatorPlugin.java
+END
+TestSpilledRecordsCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestSpilledRecordsCounter.java
+END
+TestJavaSerialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJavaSerialization.java
+END
+TestCustomOutputCommitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestCustomOutputCommitter.java
+END
+TestQueueManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestQueueManager.java
+END
+GenericMRLoadGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/GenericMRLoadGenerator.java
+END
+NotificationTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/NotificationTestCase.java
+END
+TestMiniMRBringup.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMiniMRBringup.java
+END
+TestJobInProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJobInProgress.java
+END
+EmptyInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/EmptyInputFormat.java
+END
+TestIFileStreams.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestIFileStreams.java
+END
+TestClusterMRNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestClusterMRNotification.java
+END
+TestFieldSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestFieldSelection.java
+END
+UtilsForTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/UtilsForTests.java
+END
+TestSequenceFileAsBinaryInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestSequenceFileAsBinaryInputFormat.java
+END
+TestComparators.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestComparators.java
+END
+TestCommandLineJobSubmission.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestCommandLineJobSubmission.java
+END
+TestMapOutputType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMapOutputType.java
+END
+ClusterMapReduceTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/ClusterMapReduceTestCase.java
+END
+TestJobTrackerRestartWithLostTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJobTrackerRestartWithLostTracker.java
+END
+HadoopTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/HadoopTestCase.java
+END
+TestMapRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMapRed.java
+END
+TestJobClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJobClient.java
+END
+TestTTMemoryReporting.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestTTMemoryReporting.java
+END
+TestWritableJobConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestWritableJobConf.java
+END
+TestJobName.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJobName.java
+END
+TestMapredSystemDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMapredSystemDir.java
+END
+TestTrackerBlacklistAcrossJobs.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestTrackerBlacklistAcrossJobs.java
+END
+TestReduceFetch.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestReduceFetch.java
+END
+TestMiniMRWithDFS.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMiniMRWithDFS.java
+END
+TestTaskLimits.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestTaskLimits.java
+END
+TestFileOutputCommitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestFileOutputCommitter.java
+END
+ControlledMapReduceJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/ControlledMapReduceJob.java
+END
+TestRecoveryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestRecoveryManager.java
+END
+TestMultipleTextOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestMultipleTextOutputFormat.java
+END
+MRCaching.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/MRCaching.java
+END
+TestJobInProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestJobInProgressListener.java
+END
+SortValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/SortValidator.java
+END
+TestTaskFail.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/TestTaskFail.java
+END

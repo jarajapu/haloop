@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/350/trunk/src/mapred/org/apache/hadoop/mapred/pipes
+END
+PipesPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/95/trunk/src/mapred/org/apache/hadoop/mapred/pipes/PipesPartitioner.java
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/95/trunk/src/mapred/org/apache/hadoop/mapred/pipes/Application.java
+END
+UpwardProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/95/trunk/src/mapred/org/apache/hadoop/mapred/pipes/UpwardProtocol.java
+END
+BinaryProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/95/trunk/src/mapred/org/apache/hadoop/mapred/pipes/BinaryProtocol.java
+END
+PipesNonJavaInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/95/trunk/src/mapred/org/apache/hadoop/mapred/pipes/PipesNonJavaInputFormat.java
+END
+DownwardProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/95/trunk/src/mapred/org/apache/hadoop/mapred/pipes/DownwardProtocol.java
+END
+PipesMapRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/95/trunk/src/mapred/org/apache/hadoop/mapred/pipes/PipesMapRunner.java
+END
+PipesReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/95/trunk/src/mapred/org/apache/hadoop/mapred/pipes/PipesReducer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/350/trunk/src/mapred/org/apache/hadoop/mapred/pipes/package.html
+END
+Submitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/95/trunk/src/mapred/org/apache/hadoop/mapred/pipes/Submitter.java
+END
+OutputHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/95/trunk/src/mapred/org/apache/hadoop/mapred/pipes/OutputHandler.java
+END

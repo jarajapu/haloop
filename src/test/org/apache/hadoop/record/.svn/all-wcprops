@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/record
+END
+TestRecordVersioning.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/record/TestRecordVersioning.java
+END
+ToCpp.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/record/ToCpp.java
+END
+FromCpp.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/record/FromCpp.java
+END
+TestRecordIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/record/TestRecordIO.java
+END
+TestRecordWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/record/TestRecordWritable.java
+END
+TestBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/record/TestBuffer.java
+END
+TestRecordMR.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/record/TestRecordMR.java
+END
+RecordBench.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/record/RecordBench.java
+END

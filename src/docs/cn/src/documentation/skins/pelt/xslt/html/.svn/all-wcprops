@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/89/trunk/src/docs/cn/src/documentation/skins/pelt/xslt/html
+END
+book-to-menu.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/docs/cn/src/documentation/skins/pelt/xslt/html/book-to-menu.xsl
+END
+site-to-xhtml.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/89/trunk/src/docs/cn/src/documentation/skins/pelt/xslt/html/site-to-xhtml.xsl
+END
+document-to-html.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/89/trunk/src/docs/cn/src/documentation/skins/pelt/xslt/html/document-to-html.xsl
+END
+tab-to-menu.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/89/trunk/src/docs/cn/src/documentation/skins/pelt/xslt/html/tab-to-menu.xsl
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/254/trunk/src/c++/pipes
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/254/trunk/src/c++/pipes/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/254/trunk/src/c++/pipes/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/254/trunk/src/c++/pipes/configure.ac
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/254/trunk/src/c++/pipes/depcomp
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/254/trunk/src/c++/pipes/compile
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/254/trunk/src/c++/pipes/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/254/trunk/src/c++/pipes/missing
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/254/trunk/src/c++/pipes/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/254/trunk/src/c++/pipes/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/254/trunk/src/c++/pipes/ltmain.sh
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/254/trunk/src/c++/pipes/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/254/trunk/src/c++/pipes/install-sh
+END
+.autom4te.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/254/trunk/src/c++/pipes/.autom4te.cfg
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/254/trunk/src/c++/utils/impl
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/254/trunk/src/c++/utils/impl/config.h.in
+END
+SerialUtils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/254/trunk/src/c++/utils/impl/SerialUtils.cc
+END
+StringUtils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/254/trunk/src/c++/utils/impl/StringUtils.cc
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/89/trunk/src/examples/pipes
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/89/trunk/src/examples/pipes/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/89/trunk/src/examples/pipes/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/89/trunk/src/examples/pipes/configure.ac
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/89/trunk/src/examples/pipes/depcomp
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/89/trunk/src/examples/pipes/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/89/trunk/src/examples/pipes/Makefile.am
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/89/trunk/src/examples/pipes/config.guess
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/89/trunk/src/examples/pipes/README.txt
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/89/trunk/src/examples/pipes/ltmain.sh
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/89/trunk/src/examples/pipes/aclocal.m4
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/89/trunk/src/examples/pipes/config.sub
+END
+.autom4te.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/89/trunk/src/examples/pipes/.autom4te.cfg
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/89/trunk/src/examples/pipes/install-sh
+END

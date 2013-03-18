@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/util
+END
+MetricsRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/util/MetricsRegistry.java
+END
+MBeanUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/util/MBeanUtil.java
+END
+MetricsTimeVaryingInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/util/MetricsTimeVaryingInt.java
+END
+MetricsBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/util/MetricsBase.java
+END
+MetricsTimeVaryingRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/util/MetricsTimeVaryingRate.java
+END
+MetricsLongValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/util/MetricsLongValue.java
+END
+MetricsTimeVaryingLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/util/MetricsTimeVaryingLong.java
+END
+MetricsDynamicMBeanBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/util/MetricsDynamicMBeanBase.java
+END
+MetricsIntValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/util/MetricsIntValue.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input
+END
+SequenceFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/SequenceFileInputFormat.java
+END
+InvalidInputException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/InvalidInputException.java
+END
+FileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java
+END
+LineRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/LineRecordReader.java
+END
+SequenceFileRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/SequenceFileRecordReader.java
+END
+FileSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/FileSplit.java
+END
+TextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/lib/input/TextInputFormat.java
+END

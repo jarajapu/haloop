@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/file
+END
+FileContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/file/FileContext.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/file/package.html
+END

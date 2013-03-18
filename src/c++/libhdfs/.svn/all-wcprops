@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/254/trunk/src/c++/libhdfs
+END
+hdfs_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/hdfs_write.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/Makefile.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/depcomp
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/ltmain.sh
+END
+hdfs_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/hdfs_read.c
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/configure.ac
+END
+hdfs_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/hdfs_test.c
+END
+hdfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/hdfs.c
+END
+hdfsJniHelper.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/hdfsJniHelper.c
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/Makefile.am
+END
+hdfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/hdfs.h
+END
+hdfsJniHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/hdfsJniHelper.h
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/install-sh
+END

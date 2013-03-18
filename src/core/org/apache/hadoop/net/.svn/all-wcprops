@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/net
+END
+ScriptBasedMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/net/ScriptBasedMapping.java
+END
+NodeBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/net/NodeBase.java
+END
+StandardSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/net/StandardSocketFactory.java
+END
+SocketIOWithTimeout.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/net/SocketIOWithTimeout.java
+END
+SocksSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/net/SocksSocketFactory.java
+END
+SocketInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/net/SocketInputStream.java
+END
+DNS.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/net/DNS.java
+END
+SocketOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/net/SocketOutputStream.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/net/Node.java
+END
+DNSToSwitchMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/net/DNSToSwitchMapping.java
+END
+NetworkTopology.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/net/NetworkTopology.java
+END
+NetUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/net/NetUtils.java
+END
+CachedDNSToSwitchMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/net/CachedDNSToSwitchMapping.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/net/package.html
+END

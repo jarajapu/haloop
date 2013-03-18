@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs
+END
+hdfs_quota_admin_guide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/hdfs_quota_admin_guide.xml
+END
+native_libraries.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/native_libraries.xml
+END
+hod_user_guide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/hod_user_guide.xml
+END
+distcp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/distcp.xml
+END
+tabs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/tabs.xml
+END
+streaming.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/streaming.xml
+END
+quickstart.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/quickstart.xml
+END
+capacity_scheduler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/capacity_scheduler.xml
+END
+mapred_tutorial.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/mapred_tutorial.xml
+END
+hdfs_permissions_guide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/hdfs_permissions_guide.xml
+END
+hadoop_archives.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/hadoop_archives.xml
+END
+commands_manual.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/commands_manual.xml
+END
+hod_admin_guide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/hod_admin_guide.xml
+END
+hdfs_user_guide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/hdfs_user_guide.xml
+END
+SLG_user_guide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/SLG_user_guide.xml
+END
+cluster_setup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/cluster_setup.xml
+END
+site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/site.xml
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/index.xml
+END
+service_level_auth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/service_level_auth.xml
+END
+libhdfs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/libhdfs.xml
+END
+hdfs_shell.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/hdfs_shell.xml
+END
+hod_config_guide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/hod_config_guide.xml
+END
+hdfs_design.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/hdfs_design.xml
+END
+vaidya.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/vaidya.xml
+END
+fair_scheduler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/89/trunk/src/docs/src/documentation/content/xdocs/fair_scheduler.xml
+END

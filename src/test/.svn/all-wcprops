@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/256/trunk/src/test
+END
+hdfs-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/248/trunk/src/test/hdfs-site.xml
+END
+hadoop-policy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/248/trunk/src/test/hadoop-policy.xml
+END
+checkstyle-noframes-sorted.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/248/trunk/src/test/checkstyle-noframes-sorted.xsl
+END
+mapred-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/248/trunk/src/test/mapred-site.xml
+END
+core-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/248/trunk/src/test/core-site.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/248/trunk/src/test/log4j.properties
+END
+findbugsExcludeFile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/248/trunk/src/test/findbugsExcludeFile.xml
+END
+hadoop-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/248/trunk/src/test/hadoop-site.xml
+END
+checkstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/248/trunk/src/test/checkstyle.xml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/security/authorize
+END
+AuthorizationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/security/authorize/AuthorizationException.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/security/authorize/Service.java
+END
+RefreshAuthorizationPolicyProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/security/authorize/RefreshAuthorizationPolicyProtocol.java
+END
+ConfiguredPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/security/authorize/ConfiguredPolicy.java
+END
+ConnectionPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/security/authorize/ConnectionPermission.java
+END
+PolicyProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/security/authorize/PolicyProvider.java
+END
+ServiceAuthorizationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/security/authorize/ServiceAuthorizationManager.java
+END

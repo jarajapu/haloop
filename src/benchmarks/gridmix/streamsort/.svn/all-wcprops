@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/streamsort
+END
+text-sort.small
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/streamsort/text-sort.small
+END
+text-sort.large
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/streamsort/text-sort.large
+END
+text-sort.medium
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/streamsort/text-sort.medium
+END

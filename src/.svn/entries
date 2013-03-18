@@ -1,0 +1,135 @@
+10
+
+dir
+408
+https://haloop.googlecode.com/svn/trunk/src
+https://haloop.googlecode.com/svn
+
+
+
+2012-03-03T08:57:54.338515Z
+408
+buyingyi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+112d2f9c-d2ad-0198-a37f-413d9e3a7291
+
+test
+dir
+
+ant
+dir
+
+hdfs
+dir
+
+fixFontsPath.sh
+file
+
+
+
+
+2012-06-24T16:15:45.000000Z
+008e1b2549a6e4249bf9bdb60a54e8e5
+2010-07-08T07:49:33.837656Z
+89
+buyingyi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3401
+
+native
+dir
+
+core
+dir
+
+docs
+dir
+
+tools
+dir
+
+contrib
+dir
+
+webapps
+dir
+
+mapred
+dir
+
+c++
+dir
+
+saveVersion.sh
+file
+
+
+
+
+2012-06-24T16:15:45.000000Z
+f8e3e7386ffb21d54108bfc149e38294
+2010-07-08T07:49:33.837656Z
+89
+buyingyi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1695
+
+benchmarks
+dir
+
+examples
+dir
+

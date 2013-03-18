@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/lib
+END
+TestMultipleOutputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/lib/TestMultipleOutputs.java
+END
+TestTotalOrderPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/lib/TestTotalOrderPartitioner.java
+END
+TestLineInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/lib/TestLineInputFormat.java
+END
+TestKeyFieldBasedComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/lib/TestKeyFieldBasedComparator.java
+END
+TestMultithreadedMapRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/lib/TestMultithreadedMapRunner.java
+END
+TestCombineFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/lib/TestCombineFileInputFormat.java
+END
+TestChainMapReduce.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/lib/TestChainMapReduce.java
+END
+TestDelegatingInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/lib/TestDelegatingInputFormat.java
+END
+TestKeyFieldBasedPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/lib/TestKeyFieldBasedPartitioner.java
+END
+TestKeyFieldHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/lib/TestKeyFieldHelper.java
+END
+TestMultipleInputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/lib/TestMultipleInputs.java
+END

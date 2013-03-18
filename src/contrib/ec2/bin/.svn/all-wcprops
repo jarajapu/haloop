@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/89/trunk/src/contrib/ec2/bin
+END
+terminate-hadoop-cluster
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/89/trunk/src/contrib/ec2/bin/terminate-hadoop-cluster
+END
+hadoop-ec2-env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/89/trunk/src/contrib/ec2/bin/hadoop-ec2-env.sh
+END
+hadoop-ec2
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/89/trunk/src/contrib/ec2/bin/hadoop-ec2
+END
+gsg-keypair
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/89/trunk/src/contrib/ec2/bin/gsg-keypair
+END
+pk-RH6QXIJ5IZAHYUDIA62MHT5YPGFNLTG2.pem
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/89/trunk/src/contrib/ec2/bin/pk-RH6QXIJ5IZAHYUDIA62MHT5YPGFNLTG2.pem
+END
+hadoop-ec2-init-remote.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/89/trunk/src/contrib/ec2/bin/hadoop-ec2-init-remote.sh
+END
+list-hadoop-clusters
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/89/trunk/src/contrib/ec2/bin/list-hadoop-clusters
+END
+ybu-hadoop.pem
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/89/trunk/src/contrib/ec2/bin/ybu-hadoop.pem
+END
+delete-hadoop-cluster
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/89/trunk/src/contrib/ec2/bin/delete-hadoop-cluster
+END
+hadoop-ec2-env.sh.template
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/89/trunk/src/contrib/ec2/bin/hadoop-ec2-env.sh.template
+END
+cmd-hadoop-cluster
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/89/trunk/src/contrib/ec2/bin/cmd-hadoop-cluster
+END
+create-hadoop-image
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/89/trunk/src/contrib/ec2/bin/create-hadoop-image
+END
+launch-hadoop-cluster
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/89/trunk/src/contrib/ec2/bin/launch-hadoop-cluster
+END
+cert-RH6QXIJ5IZAHYUDIA62MHT5YPGFNLTG2.pem
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/89/trunk/src/contrib/ec2/bin/cert-RH6QXIJ5IZAHYUDIA62MHT5YPGFNLTG2.pem
+END
+launch-hadoop-master
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/89/trunk/src/contrib/ec2/bin/launch-hadoop-master
+END
+launch-hadoop-slaves
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/89/trunk/src/contrib/ec2/bin/launch-hadoop-slaves
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/254/trunk/src/c++/utils/api/hadoop
+END
+StringUtils.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/254/trunk/src/c++/utils/api/hadoop/StringUtils.hh
+END
+SerialUtils.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/254/trunk/src/c++/utils/api/hadoop/SerialUtils.hh
+END

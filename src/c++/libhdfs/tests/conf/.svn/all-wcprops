@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/tests/conf
+END
+hdfs-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/tests/conf/hdfs-site.xml
+END
+mapred-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/tests/conf/mapred-site.xml
+END
+core-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/tests/conf/core-site.xml
+END
+hadoop-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/tests/conf/hadoop-site.xml
+END
+slaves
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/254/trunk/src/c++/libhdfs/tests/conf/slaves
+END

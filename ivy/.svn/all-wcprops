@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/100/trunk/ivy
+END
+ivy-2.0.0-rc2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/100/trunk/ivy/ivy-2.0.0-rc2.jar
+END
+libraries.properties
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/100/trunk/ivy/libraries.properties
+END
+ivysettings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/100/trunk/ivy/ivysettings.xml
+END
+hadoop-core.pom
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/100/trunk/ivy/hadoop-core.pom
+END

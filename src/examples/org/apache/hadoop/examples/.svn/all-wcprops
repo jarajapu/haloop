@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/402/trunk/src/examples/org/apache/hadoop/examples
+END
+Join.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/Join.java
+END
+SecondarySort.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/SecondarySort.java
+END
+MultiFileWordCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/MultiFileWordCount.java
+END
+PiEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/PiEstimator.java
+END
+AggregateWordHistogram.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/AggregateWordHistogram.java
+END
+SleepJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/SleepJob.java
+END
+ExampleDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/340/trunk/src/examples/org/apache/hadoop/examples/ExampleDriver.java
+END
+RandomWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/RandomWriter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/package.html
+END
+WCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/WCount.java
+END
+RandomTextWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/RandomTextWriter.java
+END
+WordCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/WordCount.java
+END
+DBCountPageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/DBCountPageView.java
+END
+Sort.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/Sort.java
+END
+AggregateWordCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/AggregateWordCount.java
+END
+Grep.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/Grep.java
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs
+END
+TestLocalFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/TestLocalFileSystem.java
+END
+TestDFSIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/TestDFSIO.java
+END
+TestGetFileBlockLocations.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/TestGetFileBlockLocations.java
+END
+IOMapperBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/IOMapperBase.java
+END
+TestTruncatedInputBug.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/TestTruncatedInputBug.java
+END
+TestChecksumFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/TestChecksumFileSystem.java
+END
+DFSCIOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/DFSCIOTest.java
+END
+TestDU.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/TestDU.java
+END
+TestLocalFileSystemPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/TestLocalFileSystemPermission.java
+END
+DistributedFSCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/DistributedFSCheck.java
+END
+TestGlobExpander.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/TestGlobExpander.java
+END
+TestUrlStreamHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/TestUrlStreamHandler.java
+END
+FileSystemContractBaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/FileSystemContractBaseTest.java
+END
+TestHarFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/TestHarFileSystem.java
+END
+TestTrash.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/TestTrash.java
+END
+TestGlobPaths.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/TestGlobPaths.java
+END
+TestFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/TestFileSystem.java
+END
+AccumulatingReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/AccumulatingReducer.java
+END
+TestLocalDirAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/TestLocalDirAllocator.java
+END
+TestPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/TestPath.java
+END
+TestCopyFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/TestCopyFiles.java
+END

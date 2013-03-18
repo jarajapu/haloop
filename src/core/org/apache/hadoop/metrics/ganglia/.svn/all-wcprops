@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/ganglia
+END
+GangliaContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/ganglia/GangliaContext.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/ganglia/package.html
+END

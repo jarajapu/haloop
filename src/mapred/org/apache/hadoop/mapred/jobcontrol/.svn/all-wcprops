@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/350/trunk/src/mapred/org/apache/hadoop/mapred/jobcontrol
+END
+Job.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/jobcontrol/Job.java
+END
+JobControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/89/trunk/src/mapred/org/apache/hadoop/mapred/jobcontrol/JobControl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/350/trunk/src/mapred/org/apache/hadoop/mapred/jobcontrol/package.html
+END

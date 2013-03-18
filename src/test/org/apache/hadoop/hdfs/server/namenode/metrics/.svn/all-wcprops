@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/metrics
+END
+TestNameNodeMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/metrics/TestNameNodeMetrics.java
+END

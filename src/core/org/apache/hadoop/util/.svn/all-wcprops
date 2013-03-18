@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util
+END
+RunJar.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/RunJar.java
+END
+MemoryCalculatorPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/MemoryCalculatorPlugin.java
+END
+VersionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/VersionInfo.java
+END
+Progress.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/Progress.java
+END
+Shell.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/Shell.java
+END
+MergeSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/MergeSort.java
+END
+NativeCodeLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/NativeCodeLoader.java
+END
+LineReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/LineReader.java
+END
+ProcfsBasedProcessTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/ProcfsBasedProcessTree.java
+END
+ReflectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/ReflectionUtils.java
+END
+Tool.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/Tool.java
+END
+IndexedSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/IndexedSorter.java
+END
+DiskChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/DiskChecker.java
+END
+XMLUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/XMLUtils.java
+END
+LinuxMemoryCalculatorPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/LinuxMemoryCalculatorPlugin.java
+END
+HostsFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/HostsFileReader.java
+END
+ProgramDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/ProgramDriver.java
+END
+PrintJarMainClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/PrintJarMainClass.java
+END
+PlatformName.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/PlatformName.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/StringUtils.java
+END
+UTF8ByteArrayUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/UTF8ByteArrayUtils.java
+END
+DataChecksum.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/DataChecksum.java
+END
+GenericsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/GenericsUtil.java
+END
+Daemon.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/Daemon.java
+END
+GenericOptionsParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/GenericOptionsParser.java
+END
+ToolRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/ToolRunner.java
+END
+IndexedSortable.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/IndexedSortable.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/package.html
+END
+ServletUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/ServletUtil.java
+END
+QuickSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/QuickSort.java
+END
+HeapSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/HeapSort.java
+END
+CyclicIteration.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/CyclicIteration.java
+END
+PriorityQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/PriorityQueue.java
+END
+Progressable.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/util/Progressable.java
+END

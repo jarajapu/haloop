@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/protocol
+END
+DatanodeProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/protocol/DatanodeProtocol.java
+END
+InterDatanodeProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/protocol/InterDatanodeProtocol.java
+END
+BlocksWithLocations.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/protocol/BlocksWithLocations.java
+END
+DisallowedDatanodeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/protocol/DisallowedDatanodeException.java
+END
+UpgradeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/protocol/UpgradeCommand.java
+END
+BlockMetaDataInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/protocol/BlockMetaDataInfo.java
+END
+NamenodeProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/protocol/NamenodeProtocol.java
+END
+NamespaceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/protocol/NamespaceInfo.java
+END
+BlockCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/protocol/BlockCommand.java
+END
+DatanodeRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/protocol/DatanodeRegistration.java
+END
+DatanodeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/protocol/DatanodeCommand.java
+END

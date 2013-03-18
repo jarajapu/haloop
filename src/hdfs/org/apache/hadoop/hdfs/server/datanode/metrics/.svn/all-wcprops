@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/metrics
+END
+DataNodeActivityMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/metrics/DataNodeActivityMBean.java
+END
+FSDatasetMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/metrics/FSDatasetMBean.java
+END
+DataNodeMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/metrics/DataNodeMetrics.java
+END
+DataNodeStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/metrics/DataNodeStatistics.java
+END
+DataNodeStatisticsMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/metrics/DataNodeStatisticsMBean.java
+END

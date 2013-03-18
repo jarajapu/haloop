@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/403/trunk/src/mapred/org/apache/hadoop/mapred/iterative
+END
+DefaultLoopReduceCacheFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/322/trunk/src/mapred/org/apache/hadoop/mapred/iterative/DefaultLoopReduceCacheFilter.java
+END
+LoopMapCacheFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/338/trunk/src/mapred/org/apache/hadoop/mapred/iterative/LoopMapCacheFilter.java
+END
+DefaultLoopMapCacheFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/338/trunk/src/mapred/org/apache/hadoop/mapred/iterative/DefaultLoopMapCacheFilter.java
+END
+LoopReduceCacheSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/376/trunk/src/mapred/org/apache/hadoop/mapred/iterative/LoopReduceCacheSwitch.java
+END
+LoopInputOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/305/trunk/src/mapred/org/apache/hadoop/mapred/iterative/LoopInputOutput.java
+END
+Step.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/376/trunk/src/mapred/org/apache/hadoop/mapred/iterative/Step.java
+END
+LoopReduceOutputCacheFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/368/trunk/src/mapred/org/apache/hadoop/mapred/iterative/LoopReduceOutputCacheFilter.java
+END
+DefaultLoopReduceCacheSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/376/trunk/src/mapred/org/apache/hadoop/mapred/iterative/DefaultLoopReduceCacheSwitch.java
+END
+LoopMapCacheSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/376/trunk/src/mapred/org/apache/hadoop/mapred/iterative/LoopMapCacheSwitch.java
+END
+DefaultLoopInputOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/309/trunk/src/mapred/org/apache/hadoop/mapred/iterative/DefaultLoopInputOutput.java
+END
+DefaultDistanceMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/372/trunk/src/mapred/org/apache/hadoop/mapred/iterative/DefaultDistanceMeasure.java
+END
+DefaultLoopReduceOutputCacheFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/369/trunk/src/mapred/org/apache/hadoop/mapred/iterative/DefaultLoopReduceOutputCacheFilter.java
+END
+DefaultLoopMapCacheSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/376/trunk/src/mapred/org/apache/hadoop/mapred/iterative/DefaultLoopMapCacheSwitch.java
+END
+IDistanceMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/372/trunk/src/mapred/org/apache/hadoop/mapred/iterative/IDistanceMeasure.java
+END
+LoopStepHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/391/trunk/src/mapred/org/apache/hadoop/mapred/iterative/LoopStepHook.java
+END
+LoopReduceOutputCacheSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/396/trunk/src/mapred/org/apache/hadoop/mapred/iterative/LoopReduceOutputCacheSwitch.java
+END
+LoopReduceCacheFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/403/trunk/src/mapred/org/apache/hadoop/mapred/iterative/LoopReduceCacheFilter.java
+END
+DefaultLoopStepHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/391/trunk/src/mapred/org/apache/hadoop/mapred/iterative/DefaultLoopStepHook.java
+END
+DefaultLoopReduceOutputCacheSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/396/trunk/src/mapred/org/apache/hadoop/mapred/iterative/DefaultLoopReduceOutputCacheSwitch.java
+END
+IFixPointChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/399/trunk/src/mapred/org/apache/hadoop/mapred/iterative/IFixPointChecker.java
+END

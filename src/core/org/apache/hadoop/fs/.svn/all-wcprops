@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/361/trunk/src/core/org/apache/hadoop/fs
+END
+FsShell.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/FsShell.java
+END
+PathFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/PathFilter.java
+END
+FSInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/FSInputStream.java
+END
+FsUrlStreamHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/FsUrlStreamHandler.java
+END
+DU.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/DU.java
+END
+Seekable.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/Seekable.java
+END
+FsUrlConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/FsUrlConnection.java
+END
+FSInputChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/FSInputChecker.java
+END
+ChecksumException.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/ChecksumException.java
+END
+FSError.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/FSError.java
+END
+BlockLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/BlockLocation.java
+END
+FileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/FileSystem.java
+END
+DF.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/DF.java
+END
+FilterFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/FilterFileSystem.java
+END
+PositionedReadable.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/PositionedReadable.java
+END
+FSDataOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/FSDataOutputStream.java
+END
+LocalFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/LocalFileSystem.java
+END
+Syncable.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/Syncable.java
+END
+FileChecksum.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/FileChecksum.java
+END
+InMemoryFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/InMemoryFileSystem.java
+END
+ChecksumFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/ChecksumFileSystem.java
+END
+BufferedFSInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/BufferedFSInputStream.java
+END
+RawLocalFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/RawLocalFileSystem.java
+END
+GlobExpander.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/GlobExpander.java
+END
+MD5MD5CRC32FileChecksum.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/MD5MD5CRC32FileChecksum.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/FileUtil.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/package.html
+END
+HarFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/HarFileSystem.java
+END
+Trash.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/Trash.java
+END
+FSOutputSummer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/FSOutputSummer.java
+END
+FileStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/FileStatus.java
+END
+ContentSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/ContentSummary.java
+END
+LocalDirAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/361/trunk/src/core/org/apache/hadoop/fs/LocalDirAllocator.java
+END
+Path.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/Path.java
+END
+FsShellPermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/FsShellPermissions.java
+END
+FsUrlStreamHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/FsUrlStreamHandlerFactory.java
+END
+FSDataInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/FSDataInputStream.java
+END

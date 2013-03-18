@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/402/trunk/src/examples/org/apache/hadoop/examples/pagerank
+END
+PageRankNew.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/402/trunk/src/examples/org/apache/hadoop/examples/pagerank/PageRankNew.java
+END
+PageRankStepHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/391/trunk/src/examples/org/apache/hadoop/examples/pagerank/PageRankStepHook.java
+END
+RankLoopInputOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/376/trunk/src/examples/org/apache/hadoop/examples/pagerank/RankLoopInputOutput.java
+END
+RankDistanceMeasure.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/396/trunk/src/examples/org/apache/hadoop/examples/pagerank/RankDistanceMeasure.java
+END
+RankReduceCacheSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/376/trunk/src/examples/org/apache/hadoop/examples/pagerank/RankReduceCacheSwitch.java
+END
+RankReduceOutputCacheSwitch.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/396/trunk/src/examples/org/apache/hadoop/examples/pagerank/RankReduceOutputCacheSwitch.java
+END
+NaivePageRank.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/396/trunk/src/examples/org/apache/hadoop/examples/pagerank/NaivePageRank.java
+END
+RankReduceCacheFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/322/trunk/src/examples/org/apache/hadoop/examples/pagerank/RankReduceCacheFilter.java
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode
+END
+FSDatasetInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/FSDatasetInterface.java
+END
+DataXceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/DataXceiver.java
+END
+BlockMetadataHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/BlockMetadataHeader.java
+END
+DatanodeBlockInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/DatanodeBlockInfo.java
+END
+BlockTransferThrottler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/BlockTransferThrottler.java
+END
+BlockAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/BlockAlreadyExistsException.java
+END
+UpgradeObjectDatanode.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/UpgradeObjectDatanode.java
+END
+FSDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/FSDataset.java
+END
+DataNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/DataNode.java
+END
+BlockReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/BlockReceiver.java
+END
+UpgradeManagerDatanode.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/UpgradeManagerDatanode.java
+END
+DataXceiverServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/DataXceiverServer.java
+END
+BlockSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/BlockSender.java
+END
+DataBlockScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/DataBlockScanner.java
+END
+DataStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/datanode/DataStorage.java
+END

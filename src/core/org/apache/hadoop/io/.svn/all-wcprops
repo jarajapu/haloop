@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io
+END
+FloatWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/FloatWritable.java
+END
+DoubleWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/DoubleWritable.java
+END
+TwoDArrayWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/TwoDArrayWritable.java
+END
+WritableFactories.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/WritableFactories.java
+END
+BinaryComparable.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/BinaryComparable.java
+END
+VIntWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/VIntWritable.java
+END
+MapFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/MapFile.java
+END
+ArrayFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/ArrayFile.java
+END
+VLongWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/VLongWritable.java
+END
+BytesWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/BytesWritable.java
+END
+RawComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/RawComparator.java
+END
+Text.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/Text.java
+END
+SortedMapWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/SortedMapWritable.java
+END
+Closeable.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/Closeable.java
+END
+VersionMismatchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/VersionMismatchException.java
+END
+WritableUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/WritableUtils.java
+END
+SetFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/SetFile.java
+END
+CompressedWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/CompressedWritable.java
+END
+WritableComparable.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/WritableComparable.java
+END
+ObjectWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/ObjectWritable.java
+END
+WritableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/WritableFactory.java
+END
+WritableComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/WritableComparator.java
+END
+MultipleIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/MultipleIOException.java
+END
+NullWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/NullWritable.java
+END
+GenericWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/GenericWritable.java
+END
+BloomMapFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/BloomMapFile.java
+END
+MapWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/MapWritable.java
+END
+SequenceFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/SequenceFile.java
+END
+ArrayWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/ArrayWritable.java
+END
+BooleanWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/BooleanWritable.java
+END
+Writable.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/Writable.java
+END
+WritableName.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/WritableName.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/package.html
+END
+DataInputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/DataInputBuffer.java
+END
+IntWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/IntWritable.java
+END
+DataOutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/DataOutputBuffer.java
+END
+Stringifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/Stringifier.java
+END
+UTF8.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/UTF8.java
+END
+VersionedWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/VersionedWritable.java
+END
+IOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/IOUtils.java
+END
+LongWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/LongWritable.java
+END
+InputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/InputBuffer.java
+END
+MD5Hash.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/MD5Hash.java
+END
+DefaultStringifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/DefaultStringifier.java
+END
+OutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/OutputBuffer.java
+END
+AbstractMapWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/AbstractMapWritable.java
+END
+ByteWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/ByteWritable.java
+END

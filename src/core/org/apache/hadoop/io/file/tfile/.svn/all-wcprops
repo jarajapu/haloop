@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/file/tfile
+END
+RawComparable.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/file/tfile/RawComparable.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/file/tfile/Utils.java
+END
+BoundedByteArrayOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/file/tfile/BoundedByteArrayOutputStream.java
+END
+TFileDumper.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/file/tfile/TFileDumper.java
+END
+Compression.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/file/tfile/Compression.java
+END
+ByteArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/file/tfile/ByteArray.java
+END
+TFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/file/tfile/TFile.java
+END
+MetaBlockAlreadyExists.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/file/tfile/MetaBlockAlreadyExists.java
+END
+BCFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/file/tfile/BCFile.java
+END
+CompareUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/file/tfile/CompareUtils.java
+END
+Chunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/file/tfile/Chunk.java
+END
+SimpleBufferedOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/file/tfile/SimpleBufferedOutputStream.java
+END
+BoundedRangeFileInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/file/tfile/BoundedRangeFileInputStream.java
+END
+MetaBlockDoesNotExist.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/file/tfile/MetaBlockDoesNotExist.java
+END

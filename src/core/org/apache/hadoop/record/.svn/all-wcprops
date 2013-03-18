@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record
+END
+RecordOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/RecordOutput.java
+END
+XmlRecordInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/XmlRecordInput.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/Utils.java
+END
+XmlRecordOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/XmlRecordOutput.java
+END
+BinaryRecordInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/BinaryRecordInput.java
+END
+BinaryRecordOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/BinaryRecordOutput.java
+END
+RecordComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/RecordComparator.java
+END
+Index.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/Index.java
+END
+Buffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/Buffer.java
+END
+CsvRecordInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/CsvRecordInput.java
+END
+CsvRecordOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/CsvRecordOutput.java
+END
+Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/Record.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/package.html
+END
+RecordInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/record/RecordInput.java
+END

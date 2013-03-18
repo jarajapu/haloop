@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/s3
+END
+InMemoryFileSystemStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/s3/InMemoryFileSystemStore.java
+END
+S3FileSystemContractBaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/s3/S3FileSystemContractBaseTest.java
+END
+TestS3Credentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/s3/TestS3Credentials.java
+END
+Jets3tS3FileSystemContractTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/s3/Jets3tS3FileSystemContractTest.java
+END
+TestInMemoryS3FileSystemContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/s3/TestInMemoryS3FileSystemContract.java
+END
+TestS3FileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/s3/TestS3FileSystem.java
+END
+TestINode.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/fs/s3/TestINode.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/89/trunk/conf
+END
+hdfs-site.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/89/trunk/conf/hdfs-site.xml.template
+END
+hadoop-policy.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/89/trunk/conf/hadoop-policy.xml.template
+END
+capacity-scheduler.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/89/trunk/conf/capacity-scheduler.xml.template
+END
+hadoop-env.sh.template
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/89/trunk/conf/hadoop-env.sh.template
+END
+core-site.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/89/trunk/conf/core-site.xml.template
+END
+mapred-site.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/89/trunk/conf/mapred-site.xml.template
+END
+ssl-client.xml.example
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/89/trunk/conf/ssl-client.xml.example
+END
+slaves.template
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/89/trunk/conf/slaves.template
+END
+masters.template
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/89/trunk/conf/masters.template
+END
+hadoop-metrics.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/89/trunk/conf/hadoop-metrics.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/89/trunk/conf/log4j.properties
+END
+configuration.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/89/trunk/conf/configuration.xsl
+END
+ssl-server.xml.example
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/89/trunk/conf/ssl-server.xml.example
+END

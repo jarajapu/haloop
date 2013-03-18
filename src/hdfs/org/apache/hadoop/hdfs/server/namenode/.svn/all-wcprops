@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode
+END
+INodeFileUnderConstruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/INodeFileUnderConstruction.java
+END
+UnderReplicatedBlocks.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/UnderReplicatedBlocks.java
+END
+FileDataServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/FileDataServlet.java
+END
+CorruptReplicasMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/CorruptReplicasMap.java
+END
+SerialNumberManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/SerialNumberManager.java
+END
+DecommissionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/DecommissionManager.java
+END
+NameNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/NameNode.java
+END
+LeaseExpiredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/LeaseExpiredException.java
+END
+INodeDirectoryWithQuota.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/INodeDirectoryWithQuota.java
+END
+FileChecksumServlets.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/FileChecksumServlets.java
+END
+NotReplicatedYetException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/NotReplicatedYetException.java
+END
+SafeModeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/SafeModeException.java
+END
+ReplicationTargetChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/ReplicationTargetChooser.java
+END
+CheckpointSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/CheckpointSignature.java
+END
+BlocksMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/BlocksMap.java
+END
+FSImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/FSImage.java
+END
+PendingReplicationBlocks.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/PendingReplicationBlocks.java
+END
+PermissionChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/PermissionChecker.java
+END
+DatanodeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/DatanodeDescriptor.java
+END
+FSNamesystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/FSNamesystem.java
+END
+TransferFsImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/TransferFsImage.java
+END
+FSEditLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/FSEditLog.java
+END
+ListPathsServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/ListPathsServlet.java
+END
+DfsServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/DfsServlet.java
+END
+EditLogInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/EditLogInputStream.java
+END
+INodeDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/INodeDirectory.java
+END
+EditLogOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/EditLogOutputStream.java
+END
+LeaseManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/LeaseManager.java
+END
+UpgradeObjectNamenode.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/UpgradeObjectNamenode.java
+END
+Host2NodesMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/Host2NodesMap.java
+END
+GetImageServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/GetImageServlet.java
+END
+UpgradeManagerNamenode.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/UpgradeManagerNamenode.java
+END
+StreamFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/StreamFile.java
+END
+FsckServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/FsckServlet.java
+END
+JspHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/JspHelper.java
+END
+NamenodeFsck.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/NamenodeFsck.java
+END
+FSDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/FSDirectory.java
+END
+INodeFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/INodeFile.java
+END
+INode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/INode.java
+END
+SecondaryNameNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/namenode/SecondaryNameNode.java
+END

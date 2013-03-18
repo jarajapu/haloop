@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/permission
+END
+FsPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/permission/FsPermission.java
+END
+AccessControlException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/permission/AccessControlException.java
+END
+FsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/permission/FsAction.java
+END
+PermissionStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/permission/PermissionStatus.java
+END

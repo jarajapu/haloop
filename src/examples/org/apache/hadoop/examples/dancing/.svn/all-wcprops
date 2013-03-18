@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/dancing
+END
+puzzle1.dta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/dancing/puzzle1.dta
+END
+OneSidedPentomino.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/dancing/OneSidedPentomino.java
+END
+DancingLinks.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/dancing/DancingLinks.java
+END
+Pentomino.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/dancing/Pentomino.java
+END
+Sudoku.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/dancing/Sudoku.java
+END
+DistributedPentomino.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/dancing/DistributedPentomino.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/89/trunk/src/examples/org/apache/hadoop/examples/dancing/package.html
+END

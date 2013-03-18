@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce
+END
+Partitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/Partitioner.java
+END
+RecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/RecordReader.java
+END
+Counters.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/Counters.java
+END
+TaskAttemptContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/TaskAttemptContext.java
+END
+StatusReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/StatusReporter.java
+END
+TaskInputOutputContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/TaskInputOutputContext.java
+END
+InputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/InputFormat.java
+END
+OutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/OutputFormat.java
+END
+Job.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/Job.java
+END
+InputSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/InputSplit.java
+END
+RecordWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/RecordWriter.java
+END
+ReduceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/ReduceContext.java
+END
+TaskAttemptID.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/TaskAttemptID.java
+END
+TaskID.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/TaskID.java
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/Counter.java
+END
+JobContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/JobContext.java
+END
+MapContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/MapContext.java
+END
+OutputCommitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/OutputCommitter.java
+END
+Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/Mapper.java
+END
+JobID.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/JobID.java
+END
+Reducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/Reducer.java
+END
+CounterGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/CounterGroup.java
+END
+ID.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/94/trunk/src/mapred/org/apache/hadoop/mapreduce/ID.java
+END

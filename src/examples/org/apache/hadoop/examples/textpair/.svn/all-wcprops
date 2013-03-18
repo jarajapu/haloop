@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/328/trunk/src/examples/org/apache/hadoop/examples/textpair
+END
+TextPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/328/trunk/src/examples/org/apache/hadoop/examples/textpair/TextPair.java
+END
+KeyComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/328/trunk/src/examples/org/apache/hadoop/examples/textpair/KeyComparator.java
+END
+GroupComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/328/trunk/src/examples/org/apache/hadoop/examples/textpair/GroupComparator.java
+END
+FirstPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/328/trunk/src/examples/org/apache/hadoop/examples/textpair/FirstPartitioner.java
+END

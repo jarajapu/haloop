@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/serializer
+END
+JavaSerialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/serializer/JavaSerialization.java
+END
+Deserializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/serializer/Deserializer.java
+END
+SerializationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/serializer/SerializationFactory.java
+END
+WritableSerialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/serializer/WritableSerialization.java
+END
+JavaSerializationComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/serializer/JavaSerializationComparator.java
+END
+Serializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/serializer/Serializer.java
+END
+DeserializerComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/serializer/DeserializerComparator.java
+END
+Serialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/serializer/Serialization.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/io/serializer/package.html
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/257/trunk/bin
+END
+start-dfs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/257/trunk/bin/start-dfs.sh
+END
+stop-balancer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/257/trunk/bin/stop-balancer.sh
+END
+stop-all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/257/trunk/bin/stop-all.sh
+END
+stop-mapred.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/257/trunk/bin/stop-mapred.sh
+END
+hadoop-daemon.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/257/trunk/bin/hadoop-daemon.sh
+END
+hadoop-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/257/trunk/bin/hadoop-config.sh
+END
+slaves.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/257/trunk/bin/slaves.sh
+END
+rcc
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/257/trunk/bin/rcc
+END
+hadoop-daemons.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/257/trunk/bin/hadoop-daemons.sh
+END
+stop-dfs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/257/trunk/bin/stop-dfs.sh
+END
+hadoop
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/257/trunk/bin/hadoop
+END
+start-balancer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/257/trunk/bin/start-balancer.sh
+END
+start-all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/257/trunk/bin/start-all.sh
+END
+start-mapred.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/257/trunk/bin/start-mapred.sh
+END

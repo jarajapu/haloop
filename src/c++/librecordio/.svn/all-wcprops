@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/254/trunk/src/c++/librecordio
+END
+archive.hh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/254/trunk/src/c++/librecordio/archive.hh
+END
+typeIDs.hh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/254/trunk/src/c++/librecordio/typeIDs.hh
+END
+filestream.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/254/trunk/src/c++/librecordio/filestream.cc
+END
+recordTypeInfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/254/trunk/src/c++/librecordio/recordTypeInfo.cc
+END
+csvarchive.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/254/trunk/src/c++/librecordio/csvarchive.cc
+END
+typeInfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/254/trunk/src/c++/librecordio/typeInfo.cc
+END
+exception.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/254/trunk/src/c++/librecordio/exception.cc
+END
+utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/254/trunk/src/c++/librecordio/utils.cc
+END
+fieldTypeInfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/254/trunk/src/c++/librecordio/fieldTypeInfo.cc
+END
+xmlarchive.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/254/trunk/src/c++/librecordio/xmlarchive.cc
+END
+filestream.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/254/trunk/src/c++/librecordio/filestream.hh
+END
+recordio.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/254/trunk/src/c++/librecordio/recordio.cc
+END
+recordTypeInfo.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/254/trunk/src/c++/librecordio/recordTypeInfo.hh
+END
+csvarchive.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/254/trunk/src/c++/librecordio/csvarchive.hh
+END
+typeInfo.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/254/trunk/src/c++/librecordio/typeInfo.hh
+END
+exception.hh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/254/trunk/src/c++/librecordio/exception.hh
+END
+utils.hh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/254/trunk/src/c++/librecordio/utils.hh
+END
+binarchive.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/254/trunk/src/c++/librecordio/binarchive.cc
+END
+fieldTypeInfo.hh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/254/trunk/src/c++/librecordio/fieldTypeInfo.hh
+END
+xmlarchive.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/254/trunk/src/c++/librecordio/xmlarchive.hh
+END
+recordio.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/254/trunk/src/c++/librecordio/recordio.hh
+END
+typeIDs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/254/trunk/src/c++/librecordio/typeIDs.cc
+END
+binarchive.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/254/trunk/src/c++/librecordio/binarchive.hh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/254/trunk/src/c++/librecordio/Makefile
+END

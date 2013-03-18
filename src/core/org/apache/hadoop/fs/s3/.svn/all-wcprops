@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3
+END
+S3InputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3/S3InputStream.java
+END
+FileSystemStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3/FileSystemStore.java
+END
+S3OutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3/S3OutputStream.java
+END
+S3Credentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3/S3Credentials.java
+END
+S3Exception.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3/S3Exception.java
+END
+MigrationTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3/MigrationTool.java
+END
+S3FileSystemException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3/S3FileSystemException.java
+END
+S3FileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3/S3FileSystem.java
+END
+VersionMismatchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3/VersionMismatchException.java
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3/Block.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3/package.html
+END
+Jets3tFileSystemStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3/Jets3tFileSystemStore.java
+END
+INode.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/fs/s3/INode.java
+END

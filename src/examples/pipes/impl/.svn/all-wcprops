@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/89/trunk/src/examples/pipes/impl
+END
+wordcount-simple.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/89/trunk/src/examples/pipes/impl/wordcount-simple.cc
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/89/trunk/src/examples/pipes/impl/config.h.in
+END
+wordcount-nopipe.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/89/trunk/src/examples/pipes/impl/wordcount-nopipe.cc
+END
+sort.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/89/trunk/src/examples/pipes/impl/sort.cc
+END
+wordcount-part.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/89/trunk/src/examples/pipes/impl/wordcount-part.cc
+END

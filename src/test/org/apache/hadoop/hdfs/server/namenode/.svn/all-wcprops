@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode
+END
+TestNamenodeCapacityReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/TestNamenodeCapacityReport.java
+END
+TestStartup.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/TestStartup.java
+END
+TestHeartbeatHandling.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/TestHeartbeatHandling.java
+END
+TestOverReplicatedBlocks.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/TestOverReplicatedBlocks.java
+END
+TestUnderReplicatedBlocks.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/TestUnderReplicatedBlocks.java
+END
+TestFileLimit.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/TestFileLimit.java
+END
+TestPendingReplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/TestPendingReplication.java
+END
+TestDatanodeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/TestDatanodeDescriptor.java
+END
+NNThroughputBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/NNThroughputBenchmark.java
+END
+TestNNThroughputBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/TestNNThroughputBenchmark.java
+END
+TestNameEditsConfigs.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/TestNameEditsConfigs.java
+END
+TestFsck.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/TestFsck.java
+END
+TestHost2NodesMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/TestHost2NodesMap.java
+END
+TestEditLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/TestEditLog.java
+END
+TestCheckpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/TestCheckpoint.java
+END
+FileNameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/FileNameGenerator.java
+END
+TestReplicationPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/TestReplicationPolicy.java
+END
+CreateEditsLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/CreateEditsLog.java
+END
+TestNodeCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/namenode/TestNodeCount.java
+END

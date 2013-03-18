@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/submissionScripts
+END
+monsterQueriesHod
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/submissionScripts/monsterQueriesHod
+END
+monsterQueriesToSameCluster
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/submissionScripts/monsterQueriesToSameCluster
+END
+allToSameCluster
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/submissionScripts/allToSameCluster
+END
+allThroughHod
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/submissionScripts/allThroughHod
+END
+webdataScanHod
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/submissionScripts/webdataScanHod
+END
+maxentToSameCluster
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/submissionScripts/maxentToSameCluster
+END
+webdataScanToSameCluster
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/submissionScripts/webdataScanToSameCluster
+END
+textSortToSameCluster
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/submissionScripts/textSortToSameCluster
+END
+maxentHod
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/submissionScripts/maxentHod
+END
+textSortHod
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/submissionScripts/textSortHod
+END
+sleep_if_too_busy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/submissionScripts/sleep_if_too_busy
+END
+webdataSortHod
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/submissionScripts/webdataSortHod
+END
+webdataSortToSameCluster
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/254/trunk/src/benchmarks/gridmix/submissionScripts/webdataSortToSameCluster
+END

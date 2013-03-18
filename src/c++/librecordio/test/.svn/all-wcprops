@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/254/trunk/src/c++/librecordio/test
+END
+test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/254/trunk/src/c++/librecordio/test/test.cc
+END
+testFromJava.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/254/trunk/src/c++/librecordio/test/testFromJava.hh
+END
+testFromJava.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/254/trunk/src/c++/librecordio/test/testFromJava.cc
+END
+test.jr
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/254/trunk/src/c++/librecordio/test/test.jr
+END
+test.hh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/254/trunk/src/c++/librecordio/test/test.hh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/254/trunk/src/c++/librecordio/test/Makefile
+END

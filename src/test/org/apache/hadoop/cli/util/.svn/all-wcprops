@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/cli/util
+END
+ComparatorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/cli/util/ComparatorData.java
+END
+CLITestData.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/cli/util/CLITestData.java
+END
+ComparatorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/cli/util/ComparatorBase.java
+END
+RegexpComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/cli/util/RegexpComparator.java
+END
+TokenComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/cli/util/TokenComparator.java
+END
+SubstringComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/cli/util/SubstringComparator.java
+END
+ExactComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/cli/util/ExactComparator.java
+END
+CommandExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/cli/util/CommandExecutor.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/common
+END
+GenerationStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/common/GenerationStamp.java
+END
+StorageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/common/StorageInfo.java
+END
+HdfsConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/common/HdfsConstants.java
+END
+UpgradeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/common/UpgradeManager.java
+END
+Storage.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/common/Storage.java
+END
+UpgradeStatusReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/common/UpgradeStatusReport.java
+END
+InconsistentFSStateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/common/InconsistentFSStateException.java
+END
+UpgradeObjectCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/common/UpgradeObjectCollection.java
+END
+Upgradeable.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/common/Upgradeable.java
+END
+IncorrectVersionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/common/IncorrectVersionException.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/common/Util.java
+END
+UpgradeObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/server/common/UpgradeObject.java
+END

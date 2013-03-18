@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/spi
+END
+OutputRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/spi/OutputRecord.java
+END
+NullContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/spi/NullContext.java
+END
+AbstractMetricsContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/spi/AbstractMetricsContext.java
+END
+MetricValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/spi/MetricValue.java
+END
+NullContextWithUpdateThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/spi/NullContextWithUpdateThread.java
+END
+MetricsRecordImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/spi/MetricsRecordImpl.java
+END
+CompositeContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/spi/CompositeContext.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/spi/Util.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/metrics/spi/package.html
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/cli
+END
+testConf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/cli/testConf.xml
+END
+TestCLI.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/cli/TestCLI.java
+END
+testConf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/cli/testConf.xsl
+END

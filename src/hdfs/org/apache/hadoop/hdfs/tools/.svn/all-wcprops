@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/tools
+END
+DFSAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/tools/DFSAdmin.java
+END
+DFSck.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/89/trunk/src/hdfs/org/apache/hadoop/hdfs/tools/DFSck.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/io/retry
+END
+UnreliableInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/io/retry/UnreliableInterface.java
+END
+TestRetryProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/io/retry/TestRetryProxy.java
+END
+UnreliableImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/io/retry/UnreliableImplementation.java
+END

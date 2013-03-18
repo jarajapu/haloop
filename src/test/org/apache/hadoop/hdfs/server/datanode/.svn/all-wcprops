@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/datanode
+END
+TestInterDatanodeProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/datanode/TestInterDatanodeProtocol.java
+END
+TestDiskError.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/datanode/TestDiskError.java
+END
+SimulatedFSDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/datanode/SimulatedFSDataset.java
+END
+TestSimulatedFSDataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/datanode/TestSimulatedFSDataset.java
+END
+TestDataNodeMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/datanode/TestDataNodeMetrics.java
+END
+TestBlockReplacement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/hdfs/server/datanode/TestBlockReplacement.java
+END

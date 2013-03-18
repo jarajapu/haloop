@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/security
+END
+UserGroupInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/security/UserGroupInformation.java
+END
+AccessControlException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/security/AccessControlException.java
+END
+UnixUserGroupInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/security/UnixUserGroupInformation.java
+END
+SecurityUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/security/SecurityUtil.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/security/Group.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/security/User.java
+END

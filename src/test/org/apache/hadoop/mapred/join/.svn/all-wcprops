@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/join
+END
+TestTupleWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/join/TestTupleWritable.java
+END
+IncomparableKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/join/IncomparableKey.java
+END
+ConfigurableInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/join/ConfigurableInputFormat.java
+END
+TestDatamerge.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/248/trunk/src/test/org/apache/hadoop/mapred/join/TestDatamerge.java
+END

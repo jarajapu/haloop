@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/254/trunk/src/c++/utils
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/254/trunk/src/c++/utils/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/254/trunk/src/c++/utils/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/254/trunk/src/c++/utils/configure.ac
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/254/trunk/src/c++/utils/depcomp
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/254/trunk/src/c++/utils/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/254/trunk/src/c++/utils/Makefile.am
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/254/trunk/src/c++/utils/config.guess
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/254/trunk/src/c++/utils/ltmain.sh
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/254/trunk/src/c++/utils/aclocal.m4
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/254/trunk/src/c++/utils/config.sub
+END
+.autom4te.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/254/trunk/src/c++/utils/.autom4te.cfg
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/254/trunk/src/c++/utils/install-sh
+END

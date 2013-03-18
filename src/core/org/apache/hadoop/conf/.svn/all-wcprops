@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/387/trunk/src/core/org/apache/hadoop/conf
+END
+Configurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/conf/Configurable.java
+END
+Configured.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/conf/Configured.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/387/trunk/src/core/org/apache/hadoop/conf/Configuration.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/89/trunk/src/core/org/apache/hadoop/conf/package.html
+END

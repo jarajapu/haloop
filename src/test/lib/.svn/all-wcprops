@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/248/trunk/src/test/lib
+END
+ftpserver-server-1.0.0-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/248/trunk/src/test/lib/ftpserver-server-1.0.0-SNAPSHOT.jar
+END
+ftplet-api-1.0.0-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/248/trunk/src/test/lib/ftplet-api-1.0.0-SNAPSHOT.jar
+END
+ftpserver-core-1.0.0-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/248/trunk/src/test/lib/ftpserver-core-1.0.0-SNAPSHOT.jar
+END
+mina-core-2.0.0-M2-20080407.124109-12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/248/trunk/src/test/lib/mina-core-2.0.0-M2-20080407.124109-12.jar
+END
